@@ -1,0 +1,6 @@
+{
+  "buildDirectory": "./build/",
+  "auraDirectory": "../../src/aura/",
+  "ltfDirectory": "./",
+  "componentBundles": []
+}

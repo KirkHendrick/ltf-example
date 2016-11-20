@@ -1,0 +1,24 @@
+{
+  "name": "ltf-example",
+  "version": "1.0.0",
+  "description": "Sample project using the Lightning Test Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KirkHendrick/ltf-example.git"
+  },
+  "author": "Kirk Hendrick <hendrick.kirk@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KirkHendrick/ltf-example/issues"
+  },
+  "homepage": "https://github.com/KirkHendrick/ltf-example#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-change": "^1.0.0",
+    "mocha": "^3.1.2"
+  }
+}
